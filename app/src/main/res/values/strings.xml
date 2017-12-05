@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZendeskTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="com.zendesk.sdk.url" translatable="false">https://techbamboo.zendesk.com</string>
+    <string name="com.zendesk.sdk.identifier" translatable="false">3bffc288cea62f9fdcd21ff93e6da0c9ec5de8887659659d</string>
+    <string name="com.zendesk.sdk.clientIdentifier" translatable="false">mobile_sdk_client_b76783dac763aab9f372</string>
+</resources>
